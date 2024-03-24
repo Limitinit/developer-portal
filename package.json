@@ -20,7 +20,7 @@
   "dependencies": {
     "@docsly/react": "^1.8.6",
     "clsx": "^2.0.0",
-    "next": "^13.0.6",
+    "next": "^14.0.0",
     "next-auth": "^4.23.2",
     "nextra": "^2.13.2",
     "nextra-theme-blog": "^2.13.2",
